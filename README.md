@@ -87,4 +87,4 @@ Feel free to submit issues or pull requests for improvements or additions.
 
 #### Author
 
-[Reza Sadeghi](https://github.com/https://github.com/Rajashekhar7259/)
+[Rajashekhar Hipparagi](https://github.com/https://github.com/Rajashekhar7259/)
